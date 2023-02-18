@@ -1,0 +1,6 @@
+uvicorn
+numpy
+pandas
+fastapi
+pydantic
+scikit-learn~=1.0.2
