@@ -1,6 +1,6 @@
 import uvicorn
 from fastapi import FastAPI
-from IPLScore import IPL_Match
+from IPL import IPL_Match
 from IPL import IPL_match
 import numpy as np
 import pandas as pd
